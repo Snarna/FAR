@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FAR</string>
+    <string name="main_activity_start_button_text">Start AR</string>
+
+    <string name="title_activity_ar">ArActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>
